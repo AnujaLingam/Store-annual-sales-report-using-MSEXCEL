@@ -1,3 +1,11 @@
+Created an automated sales reporting system using Microsoft Excel to streamline the annual sales reporting process
+for a retail store
+• Designed a user-friendly Excel workbook with an intuitive interface for inputting and tracking sales data
+• Implemented data validation and error-checking mechanisms to ensure data accuracy
+• Developed complex Excel formulas and pivot tables to generate comprehensive annual sales reports, including sales
+trends, product performance, and revenue projections
+
+
 Mary Store annual report was made:
 1.)Compare the sales and orders using single chart.
 2.)Which month got the highest sales and orders
